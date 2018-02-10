@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jean</title>
+  <subtitle>I am a Ruby developer living in Wellington.</subtitle>
+  <id>https://jeanvanderwalt.com</id>
+  <link href="https://jeanvanderwalt.com"/>
+  <link href="https://jeanvanderwalt.com/feed.xml" rel="self"/>
+  <author>
+    <name>Jean van der Walt</name>
+  </author>
+</feed>
